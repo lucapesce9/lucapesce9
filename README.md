@@ -12,7 +12,7 @@ I'm passionate about **Machine Learning**, from data preprocessing and model bui
 - ⚡ **Interests**: Staying updated with the latest research in AI, experimenting with new ML libraries, and exploring cloud services for seamless deployment.  
 
 ### Get in touch
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/luca-pesce-6877091a6/))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white])(https://www.linkedin.com/in/luca-pesce-6877091a6/)]
 
 > “Without data, you’re just another person with an opinion.” — W. Edwards Deming
 
